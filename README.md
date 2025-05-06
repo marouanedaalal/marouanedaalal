@@ -7,7 +7,7 @@
 
 💼 I design, build, and maintain scalable data pipelines in the cloud.  
 ⚙️ Tools: Python, Pandas, NumPy, Spark, Airflow, Snowflake, SQL, Power BI, Matplotlib, Seaborn  
-☁️ Platforms: AWS (S3, EMR, Glue, Redshift, Lamdba, kinesis, Athena, Iam), Azure (ADF, Databricks, Synapse , Data Lake Storage)  
+☁️ Platforms: AWS (S3, EMR, Glue, Redshift, Lambda, Kinesis, Athena, IAM ), Azure (ADF, Databricks, Synapse, Data Lake Storage)  
 🧰 DBMS: PostgreSQL, MySQL, SQL Server  
 
 ---
