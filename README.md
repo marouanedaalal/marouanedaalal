@@ -60,7 +60,7 @@
 
 <h3>📬 Contact</h3>
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:marouanedaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
