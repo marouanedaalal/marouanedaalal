@@ -1,63 +1,71 @@
-![banner](https://raw.githubusercontent.com/marounedaalal/marounedaalal/main/banner.png)
-
-<h1 align="center">Hey 👋, I'm Maroune Daalal</h1>
-<h4 align="center">A passionate Data Engineer on a mission to build intelligent, scalable, and real-time data ecosystems. I work with the entire modern data stack — from raw files to business-ready dashboards. Always automating. Always improving. Always delivering.</h4>
+<h1 align="center">Hi 👋, I'm Maroune Daalal</h1>
+<h3 align="center">⚙️ Data Engineer | Cloud & Big Data | Orchestration & Visualization Expert</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 ---
 
-- 🔭 I’m currently working on **real-time streaming pipelines with Spark + Kafka on AWS EMR**
-- ⚡ I specialize in **Spark, Airflow, Delta Lake, Snowflake, and Databricks**
-- 🌐 I build **end-to-end cloud-based data platforms** with Terraform & orchestration tools
-- 👨‍🎓 I'm also helping junior data engineers break into the field — stay tuned for my **blog & mini-courses**  
-- 🏆 Built the **first Moroccan AI engine** with a team of top engineers 🇲🇦  
-- 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/marounedaalal)
+💼 I design, build, and maintain scalable data pipelines in the cloud.  
+⚙️ Tools: Python, Pandas, NumPy, Spark, Airflow, Snowflake, SQL, Power BI, Matplotlib, Seaborn  
+☁️ Platforms: AWS (S3, EMR, Glue, Redshift, Lamdba, kinesis, Athena, Iam), Azure (ADF, Databricks, Synapse , Data Lake Storage)  
+🧰 DBMS: PostgreSQL, MySQL, SQL Server  
 
 ---
 
-<h3 align="left">🛠️ Tech Stack & Tools I Master:</h3>
+<h3>🛠️ Tech Stack</h3>
+
+#### ☁️ Cloud Platforms
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/airflow/apache_airflow-icon.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/azure/azure-icon.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x1224-qssgmjbc.png" width="40" title="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" title="Azure"/>
+</p>
+
+#### 🧰 Data Engineering & Orchestration
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" title="Apache Airflow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width="50" title="Apache Spark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+</p>
+
+#### 🗄️ Databases & Warehousing
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" title="Snowflake"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
+</p>
+
+#### 🧪 Data Transformation & Modeling
+<p align="left">
+  <img src="https://app.matatika.com/assets/logos/extractors/dbt.png" width="70" title="dbt"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+</p>
+
+#### 📊 Data Visualization
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="40" title="Seaborn"/>
+</p>
+
+#### 🧰 DevOps & CI/CD
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
 </p>
 
 ---
 
-<h3 align="left">🚀 Highlight Projects:</h3>
-
-- 🧠 **AI-Triggered Delta Lake Refresh System**  
-  Auto-detects new files in S3 & refreshes Delta tables using Spark Structured Streaming + Airflow
-
-- 🛰️ **End-to-End Data Platform** (Built with Terraform + Databricks + ADF)  
-  Ingest, transform, and serve petabyte-scale data in near real-time
-
-- 🔁 **Modular DAG Framework**  
-  Developed a plug-and-play architecture for complex multi-asset Airflow DAGs
-
----
-
-<h3 align="left">📈 GitHub Stats:</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marounedaalal&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marounedaalal&layout=compact&theme=tokyonight" alt="langs"/>
-</p>
-
----
-
-<h3 align="center">⚡ Ready to Scale the Next Big Data Mountain 🏔️</h3>
-
+<h3>📬 Contact</h3>
 <p align="center">
-  <b>“Give me your raw data, I’ll give you business-ready insight.”</b><br/>
-  <i>— Maroune Daalal</i>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+
+<h3 align="center">⚡ Motto</h3>
+<p align="center"><b>"From raw data to real impact — I engineer pipelines that power decisions."</b></p>
