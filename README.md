@@ -55,6 +55,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
 </p>
 
+🧑‍💻 Remote Collaboration Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" title="Slack"/> </p>
+
 ---
 
 <h3>📬 Contact</h3>
